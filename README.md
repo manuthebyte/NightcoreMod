@@ -9,7 +9,7 @@ No more robotic pitch correction — just pure audio vibes ✨
 ## 📦 Installation
 
 Coming soon via [BeatMods](https://beatmods.com/)  
-For now, you can download the [latest release](https://beatmods.com/](https://github.com/manuthebyte/NightcoreMod/releases/latest) as a zip and unzip it inside your plugins folder!
+For now, you can download the [latest release](https://github.com/manuthebyte/NightcoreMod/releases/latest) as a zip and unzip it inside your plugins folder!
 
 ---
 
