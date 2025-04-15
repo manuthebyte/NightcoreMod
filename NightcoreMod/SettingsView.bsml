@@ -1,0 +1,5 @@
+﻿<vertical>
+    <toggle-setting text="Nightcore (faster)" value="EnableNightcore" apply-on-change="true"/>
+    <toggle-setting text="Daycore (slower)" value="EnableDaycore" apply-on-change="true"/>
+    <toggle-setting text="Pitch active in preview" value="PreviewPitch" apply-on-change="true"/>
+</vertical>
