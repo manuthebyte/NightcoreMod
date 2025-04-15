@@ -6,9 +6,10 @@ No more robotic pitch correction — just pure audio vibes ✨
 
 ---
 
-## ✅ Usage
+## 📦 Installation
 
-
+Coming soon via [BeatMods](https://beatmods.com/)  
+For now, you can download the [latest release](https://beatmods.com/)   and install it with your mod loader of choice (I would recommend BSManager!)
 
 ---
 
@@ -32,6 +33,20 @@ There, you can toggle:
 - `Preview Pitch`: Apply pitch changes to the menu preview audio as well
 
 > Note: Preview Pitch functionality is currently toggleable, but actual pitch handling for previews is still under development.
+
+---
+
+## 🛠️ License
+
+MIT License – because freedom is cool 🕊️  
+Use it, mod it, remix it.
+
+---
+
+## 🧠 Credits
+
+Developed with love by [@manuthebyte](https://github.com/manuthebyte) 💙  
+Huge shoutout to the [BSMG](https://bsmg.wiki/) community for the tools and knowledge!
 
 ---
 ## ❤️ Support
